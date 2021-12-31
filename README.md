@@ -1,2 +1,2 @@
 # nowe-rep
-drugi pull
+drugie repo zrobione na potrzeby kursu
